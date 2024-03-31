@@ -1,4 +1,4 @@
-## OGHENEROBO ODMOMERO REX - WEB EXERCISE  
+## OGHENEROBO ODOMERO REX - WEB EXERCISE  
 
 ### [LINK TO github.md](https://rexblazy.github.io/Github.md/)  
 
